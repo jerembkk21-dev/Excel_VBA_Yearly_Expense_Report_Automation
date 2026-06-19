@@ -80,12 +80,17 @@ Calculates the total expense for each worksheet and formats the result.
 
 Source worksheets
 
-(Add screenshot)
+![Source Data](Screenshots/excel_vba_source.png)
 
 Formatted data
 
-(Add screenshot)
+![Source Data](Screenshots/excel_vba_formated_data.png)
+
+VBA Script
+
+![Source Data](Screenshots/excel_vba_script.png)
 
 Final yearly report
 
-(Add screenshot)
+![Source Data](Screenshots/excel_vba_final_yearly_report.png)
+
