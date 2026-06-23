@@ -116,8 +116,6 @@ Private Sub Workbook_Open()
     frmFinalReport.Show
 End Sub
 
-
-
 # 5) Example Workflow
 
 1. Open workbook.
@@ -168,7 +166,7 @@ End Sub
 - ActiveSheet and ActiveCell objects
 - Range and Selection methods
 
-# 9) Future Improvements
+# 8) Future Improvements
 
 - Eliminate reliance on .Select and ActiveCell.
 - Use worksheet object variables for better performance.
@@ -178,7 +176,7 @@ End Sub
 - Add charts and dashboard visualizations.
 - Convert the solution into a reusable reporting template.
 
-# 10) Screenshots
+# 9) Screenshots
 
 Source worksheets
 
@@ -186,6 +184,7 @@ Source worksheets
 
 UserForm Interface
 
+![Source Data](Screenshots/excel_userform_interface.png)
 
 Formatted data
 
